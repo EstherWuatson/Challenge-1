@@ -1,5 +1,15 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+#Description
+This challenge is completed by Esther Wu to demonstrate the User Story with Acceptance Criteria.
+The website challnege is give the following.
+![The screenshot of this challenge]
+(.assets/images/Screenshot 2023-08-07 at 2.05.27 PM.png)
+(.assets/images/Screenshot 2023-08-07 at 2.05.35 PM.png)
+(.assets/images/Screenshot 2023-08-07 at 2.05.37 PM.png)
+
+The deployed application link: https://estherwuatson.github.io/HoriseonToSuccess/
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
