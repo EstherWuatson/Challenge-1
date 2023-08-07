@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-#Description
+# Description
 This challenge is completed by Esther Wu to demonstrate the User Story with Acceptance Criteria.
 The website challnege is give the following.
 ![The screenshot of this challenge]
