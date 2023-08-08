@@ -1,12 +1,12 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-# Description
-This challenge is completed by Esther Wu to demonstrate the User Story with Acceptance Criteria.
-The website challnege is give the following.
-![The screenshot of this challenge]
-(.assets/images/Screenshot 2023-08-07 at 2.05.27 PM.png)
-(.assets/images/Screenshot 2023-08-07 at 2.05.35 PM.png)
-(.assets/images/Screenshot 2023-08-07 at 2.05.37 PM.png)
+## Description
+This challenge is provided to Esther Wu as week one UC Berkeley Bootcamp homework to change html and css elements accordingly to User Story and Acceptance Criteria.
+The website challnege is given the following.
+
+![The screenshots of this challenge](./assets/images/ScreenshotHoriseon1.png)
+![The screenshots of this challenge](./assets/images/ScreenshotHoriseon2.png)
+![The screenshots of this challenge](./assets/images/ScreenshotHoriseon3.png)
 
 The deployed application link: https://estherwuatson.github.io/HoriseonToSuccess/
 
