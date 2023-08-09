@@ -1,29 +1,30 @@
+/* Universal Element */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Body element to background the body html #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
-
+/* Header element to style layout, font, text color and background color */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Header element to style position and font of header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Header element to keep the style of header was given */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Header element to anchor the links/navigation items */
 header a {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,16 +34,16 @@ header a {
     font-size: 20px;
     text-align: right;
 }
-
+/* Element to style the anchors */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* font size of the paragraph text */
 p {
     font-size: 16px;
 }
-
+/* Class element to keep the background image and its style */
 .hero {
     height: 800px;
     width: 100%;
@@ -51,23 +52,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Main element for layout and margin */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Class element to position the images within sections */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Class element to position the images withint sections */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Aside element to style and margine the sidebar */
 aside {
     margin-right: 20px;
     padding: 60px;
@@ -78,18 +79,18 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Class element to margin the aside and its text color */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Class element to margin the aside and its text color */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Class element to style the sections images/text */
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,21 +99,23 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Class element to style the sections images/text */
 .service img {
     max-height: 200px;
 }
+/* Class element to style the sections images/text */
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer style */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer font size */
 footer h4 {
     font-size: 20px;
 }

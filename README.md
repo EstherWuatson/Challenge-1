@@ -1,7 +1,13 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+## Name of the Challenge
+Code Refractoring on Horiseon Webpage
+
 ## Description
-This challenge is provided to Esther Wu as week one UC Berkeley Bootcamp homework to change html and css elements accordingly to User Story and Acceptance Criteria.
+This challenge is provided to Esther Wu as week one UC Berkeley Bootcamp homework to change html and css elements accordingly to User Story and Acceptance Criteria. The Website Horiseon has premade and provided for this challange.   
+
+## Visual of this Challenge
+
 The website challnege is given the following.
 
 ![The screenshots of this challenge](./assets/images/ScreenshotHoriseon1.png)
@@ -10,7 +16,13 @@ The website challnege is given the following.
 
 The deployed application link: https://estherwuatson.github.io/HoriseonToSuccess/
 
-## Challenges in This Course
+## Installation
+Software for this challnege are Homebrew, V.S. Code and GitHub.
+
+## Support
+If you have any questions, please contact me at 1Esther.Wu@gmail.com
+
+## Challenges in This Course Provided
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
